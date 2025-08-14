@@ -1,7 +1,7 @@
 
 
-# 💫 About Me:
-Hi, I'm Lindo!<br>- I am an informatics honours student from the University of Johannesburg<br>- I’m currently working on building an AI powered intrusion detection system with visualisation<br>- Love all things cybersecurity & fintech<br>- In my spare time, you'll find me in a TryHackMe room @DecryptHer ;)<br><br>
+# Hi, I'm Lindo!:
+<br>- I am an informatics honours student from the University of Johannesburg<br>- I’m currently working on building an AI powered intrusion detection system with visualisation<br>- Love all things cybersecurity & fintech<br>- In my spare time, you'll find me in a TryHackMe room @DecryptHer ;)<br><br>
 
 
 ## 🌐 Socials
